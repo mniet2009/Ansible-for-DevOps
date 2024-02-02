@@ -1,4 +1,4 @@
-.# Simple Node.js Development VM
+# Simple Node.js Development VM
 
 This project aims to make spinning up a simple local Node.js test/development environment incredibly quick and easy, and to introduce new developers to the wonderful world of Node.js development on local virtual machines.
 
