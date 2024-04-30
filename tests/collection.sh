@@ -3,7 +3,6 @@
 
 
 
-
 #!/bin/bash
 #
 # Collection playbook tests.
